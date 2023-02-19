@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome! 👋
+
+<ul>
+  <li>🔭 I’m currently working on my first React project with Firebase</li>
+  <li>📫 I’m looking to collaborate on a web app project to gain experience</li>
+  <li>🤔 Currently studying to get a degree and a job hopefully</li>
+
+  
+</ul>
+<p>______________________________________________________________________</p>
+<p align="left" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=dark" alt="j1-dev" />
 
 <!--
 **j1-dev/j1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
