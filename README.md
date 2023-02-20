@@ -14,6 +14,10 @@
     <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
   </p>
 
+  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=j1-dev&theme=github-dark)](https://git.io/streak-stats)
+
 </div> 
 
 
