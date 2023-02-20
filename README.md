@@ -6,15 +6,16 @@
     <li>🤔 Currently studying to get a degree and a job hopefully</li>
   </ul>
   <div align="center">
-  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  
+  <hr/>
   <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=dark" alt="j1-dev" />
-  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  <hr/>
   <p align="center">
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
   </p>
 
-  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  <hr/>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=j1-dev&theme=github-dark)](https://git.io/streak-stats)
 
