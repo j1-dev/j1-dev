@@ -6,9 +6,9 @@
     <li>🤔 Currently studying to get a degree and a job hopefully</li>
   </ul>
   <div align="center">
-  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
   <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=dark" alt="j1-dev" />
-  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+  <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
   <p align="center">
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
