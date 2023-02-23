@@ -1,12 +1,13 @@
-# Welcome! 👋
-
-  <ul>
-    <li>🔭 I’m currently working on my first React project with Firebase</li>
-    <li>📫 I’m looking to collaborate on a web app project to gain experience</li>
-    <li>🤔 Currently studying to get a degree and a job hopefully</li>
-  </ul>
-  <div align="center">
-  
+```
+dP                dP dP                                          dP       dP dP 
+88                88 88                                          88       88 88 
+88d888b. .d8888b. 88 88 .d8888b.    dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
+88'  `88 88ooood8 88 88 88'  `88    88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
+88    88 88.  ... 88 88 88.  .88    88.88b.88' 88.  .88 88       88 88.  .88    
+dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo                              
+```                                                      
+                                                        
+ 
   <hr/>
   <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=dark" alt="j1-dev" />
   <hr/>
