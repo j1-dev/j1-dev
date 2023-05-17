@@ -11,7 +11,7 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
 
  
   <hr/>
-  <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=dark" alt="j1-dev" />
+  <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=chartreuse-dark" alt="j1-dev" />
   <hr/>
   <p align="center">
     Visitor count<br>
