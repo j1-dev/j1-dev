@@ -20,7 +20,7 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
 
   <hr/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=j1-dev&theme=github-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=j1-dev&theme=hacker&hide_border=true&border_radius=43.6&mode=weekly&exclude_days=Sun%2CSat&fire=EB0000)](https://git.io/streak-stats)
 
 </div> 
 
