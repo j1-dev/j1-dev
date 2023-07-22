@@ -8,23 +8,8 @@ dP                dP dP                                          dP       dP dP
 88    88 88.  ... 88 88 88.  .88    88.88b.88' 88.  .88 88       88 88.  .88    
 dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
 ```                                                      
-
- 
-  <hr/>
-  <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=j1-dev&show_icons=true&theme=chartreuse-dark" alt="j1-dev" />
-  <hr/>
-  <p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
-  </p>
-
-  <hr/>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=j1-dev&theme=hacker&hide_border=true&border_radius=43.6&mode=weekly&exclude_days=Sun%2CSat&fire=EB0000)](https://git.io/streak-stats)
-
+  <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
 </div> 
-
-
 <!--
 **j1-dev/j1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
