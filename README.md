@@ -7,20 +7,17 @@ dP                dP dP                                          dP       dP dP
 88'  `88 88ooood8 88 88 88'  `88    88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
 88    88 88.  ... 88 88 88.  .88    88.88b.88' 88.  .88 88       88 88.  .88    
 dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
-```                                                      
-  <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
+```
+
+                                                   
+<img src="https://github-readme-stats.vercel.app/api?username=j1-dev">
+  
 </div> 
-<!--
-**j1-dev/j1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/j1-dev/count.svg" />
+  
+</div>
