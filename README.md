@@ -60,14 +60,8 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
   
 <img src="https://github-profile-trophy.vercel.app/?username=j1-dev&theme=radical&no-frame=true&row=1&column=7"/>
 
-</div>
-
 ---
 
-## 🎯 Fun & Silly Widgets
-
-<div align="center">
-  
 <!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
