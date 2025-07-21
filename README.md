@@ -1,14 +1,18 @@
-# 👋 ¡Hola! I'm Juan García Marín
+# 👋 ¡Greetings! I'm Juan García Marín
 
 <div align="center">
   
 ```
-dP                dP dP                                          dP       dP dP 
-88                88 88                                          88       88 88 
-88d888b. .d8888b. 88 88 .d8888b.    dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
-88'  `88 88ooood8 88 88 88'  `88    88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
-88    88 88.  ... 88 88 88.  .88    88.88b.88' 88.  .88 88       88 88.  .88    
-dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
+    /$$$$$   /$$               /$$                     
+   |__  $$ /$$$$              | $$                     
+      | $$|_  $$          /$$$$$$$  /$$$$$$  /$$    /$$
+      | $$  | $$ /$$$$$$ /$$__  $$ /$$__  $$|  $$  /$$/
+ /$$  | $$  | $$|______/| $$  | $$| $$$$$$$$ \  $$/$$/ 
+| $$  | $$  | $$        | $$  | $$| $$_____/  \  $$$/  
+|  $$$$$$/ /$$$$$$      |  $$$$$$$|  $$$$$$$   \  $/   
+ \______/ |______/       \_______/ \_______/    \_/    
+                                                       
+                                                       
 ```
 
 **Full Stack Developer** | **React & Spring Boot Enthusiast** | **From Málaga to the World** 🌍
@@ -49,35 +53,6 @@ dP    dP `88888P' dP dP `88888P'    8888P Y8P  `88888P' dP       dP `88888P8 oo
   
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=j1-dev&theme=redical&hide_border=true&custom_title=My%20Coding%20Journey"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=j1-dev&theme=radical&no-frame=true&row=1&column=7"/>
-
----
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-<!-- Joke API -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
-</div>
-
-<div align="center">
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A97&width=435&lines=Full+Stack+Developer;React+%26+Angular+Expert;Spring+Boot+Enthusiast;AI+Integration+Specialist;Always+Learning+New+Things!" alt="Typing SVG" />
 
 </div>
 
@@ -165,20 +140,4 @@ Developed enterprise job proposal management system
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.gm.inc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j1-dev)
 
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://profile-counter.glitch.me/j1-dev/count.svg)
-
-**¡Gracias for visiting! Let's build something amazing together! 🌟**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
