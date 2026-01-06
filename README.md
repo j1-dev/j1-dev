@@ -84,9 +84,9 @@ ______/\\\\\\\\\\\______/\\\_______________________/\\\_________________________
 
 <div align="center">
 
-### 🎨 **intellipic.es** - AI Image Generator
-*Next.js • Supabase • OpenAI API*  
-Transform text into stunning visuals with AI magic ✨
+### 🎨 **intellipic-lite** - AI Image Generator
+*Next.js • Supabase • Seedream*  
+Edit images with just a prompt ✨
 
 ### 🌐 **j1.wtf & Seal** - Social Network Evolution
 *React.js • Firebase • Next.js*  
