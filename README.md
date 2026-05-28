@@ -1,5 +1,3 @@
-# 👋 ¡Greetings! I'm Juan García Marín
-
 <div align="center">
   
 ```
@@ -15,29 +13,6 @@ ______/\\\\\\\\\\\______/\\\_______________________/\\\_________________________
 
                                                    
 ```
-
-**Full Stack Developer** | **React & Spring Boot Enthusiast** | **From Málaga to the World** 🌍
-
-*Turning ideas into functional applications, one commit at a time* ☕→💻
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎨 **intellipic-lite** - AI Image Generator
-*Next.js • Supabase • Seedream*  
-Edit images with just a prompt ✨
-
-### 🌐 **Seal** - Social Network Evolution
-*React.js • Firebase • Next.js*  
-Real-time social platform with dynamic feeds and performance optimization 🚀
-
-### 💼 **Job Proposal Manager @ CGI**
-*Spring Boot • Angular • PostgreSQL • Docker*  
-Enterprise-level proposal management system with microservices architecture 🏢
-
 </div>
 
 ---
