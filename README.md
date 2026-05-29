@@ -21,13 +21,28 @@ ______/\\\\\\\\\\\______/\\\_______________________/\\\_________________________
 
 <div align="center">
 
+**🏢 Ebury - Associate Engineer**  
+*Malaga, Spain | Mar 2026 - Present*
+
+Client Operations (ClientOps) engineering focused on process automation and internal tooling  
+• Backend automation services with Node.js & TypeScript  
+• Workflow/pipeline improvements for operational processes (Periodic Reviews, offboarding, dynamic forms)  
+• Integrations across internal systems (e.g., Jira-driven processes)  
+• Emphasis on reliability, developer experience, and reducing manual ops work
+
+</div>
+
+---
+
+<div align="center">
+
 **🏢 CGI Inc. - Software Developer Intern**  
 *Lisbon, Portugal | Mar 2024 - Jun 2024*
 
 Developed enterprise job proposal management system  
 • Microservices with Spring Boot & PostgreSQL  
 • Angular frontend with RxJS  
-• Docker containerization & SCRUM methodology  
+• Docker containerization & SCRUM methodology
 
 </div>
 
