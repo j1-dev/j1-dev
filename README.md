@@ -48,6 +48,10 @@ Developed enterprise job proposal management system
 
 ---
 
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=graywhite&fontFamily=&preferLogin=true">    <img  alt="j1-dev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/j1-dev?cardType=level&theme=graywhite&fontFamily=&preferLogin=true" />  </a>
+</div>
+
 ## 📫 Let's Connect!
 
 <div align="center">
